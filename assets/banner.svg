@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Paper Hajimi</title><desc id="desc">Illustration of a cardboard desktop robot with OLED eyes, offline voice, cheek proximity and head movement. Enclosure concept, not a finished product photograph.</desc>
+<rect width="1200" height="400" rx="24" fill="#102b2c"/>
+<circle cx="1020" cy="85" r="200" fill="#163b3b"/>
+<path d="M910 331h250M935 350h200" stroke="#365958" stroke-width="2"/>
+<g transform="translate(900 70)">
+<path d="M-38 25L160 10l42 30-198 16z" fill="#e6c78c"/>
+<path d="M160 10l42 30v170l-42-30z" fill="#947247"/>
+<path d="M-38 25l198-15v170l-198 15z" fill="#c7a169"/>
+<rect x="-16" y="53" width="150" height="99" rx="14" fill="#0c2227"/>
+<rect x="8" y="79" width="37" height="44" rx="12" fill="#8ce6ef"/>
+<rect x="77" y="79" width="37" height="44" rx="12" fill="#8ce6ef"/>
+<path d="M24 193h74v44H24z" fill="#9c784a"/>
+<path d="M-20 237h171l27 28H-40z" fill="#e0bb80"/>
+<rect x="-40" y="265" width="218" height="21" rx="4" fill="#b98e57"/>
+<circle cx="-28" cy="121" r="8" fill="#f3ce76"/>
+<path d="M-67 93q-30 27 0 54M231 72q30 25 0 50" fill="none" stroke="#83b8ae" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g font-family="Arial, 'Microsoft YaHei', sans-serif">
+<text x="62" y="83" fill="#eac88b" font-size="18" letter-spacing="4">PAPER HAJIMI / OPEN SOURCE</text>
+<text x="58" y="164" fill="#f6f3e9" font-size="64" font-weight="700">纸壳哈基米</text>
+<text x="62" y="218" fill="#c6d9d2" font-size="25">从一双眼睛开始，做一只会回应你的小伙伴。</text>
+<text x="62" y="285" fill="#eac88b" font-size="21">离线语音 · 摸脸互动 · 表情与转头</text>
+<text x="62" y="345" fill="#88aaa3" font-size="15">ESP32-S3 + ASRPRO | v0.9.3 | 纸壳造型示意，结构模板待完成</text>
+</g></svg>
