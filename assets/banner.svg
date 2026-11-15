@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
-<title id="title">Paper Hajimi</title><desc id="desc">Illustration of a cardboard desktop robot with OLED eyes, offline voice, cheek proximity and head movement. Enclosure concept, not a finished product photograph.</desc>
+<title id="title">Paper Robot — Voice Interactive Edition</title><desc id="desc">Illustration of a cardboard desktop robot with OLED eyes, offline voice, cheek proximity and head movement. Enclosure concept, not a finished product photograph.</desc>
 <rect width="1200" height="400" rx="24" fill="#102b2c"/>
 <circle cx="1020" cy="85" r="200" fill="#163b3b"/>
 <path d="M910 331h250M935 350h200" stroke="#365958" stroke-width="2"/>
@@ -17,9 +17,9 @@
 <path d="M-67 93q-30 27 0 54M231 72q30 25 0 50" fill="none" stroke="#83b8ae" stroke-width="5" stroke-linecap="round"/>
 </g>
 <g font-family="Arial, 'Microsoft YaHei', sans-serif">
-<text x="62" y="83" fill="#eac88b" font-size="18" letter-spacing="4">PAPER HAJIMI / OPEN SOURCE</text>
-<text x="58" y="164" fill="#f6f3e9" font-size="64" font-weight="700">纸壳哈基米</text>
+<text x="62" y="83" fill="#eac88b" font-size="18" letter-spacing="4">PAPER ROBOT / VOICE INTERACTIVE EDITION</text>
+<text x="58" y="164" fill="#f6f3e9" font-size="36" font-weight="700">纸壳机器人—语音交互式版</text>
 <text x="62" y="218" fill="#c6d9d2" font-size="25">从一双眼睛开始，做一只会回应你的小伙伴。</text>
 <text x="62" y="285" fill="#eac88b" font-size="21">离线语音 · 摸脸互动 · 表情与转头</text>
-<text x="62" y="345" fill="#88aaa3" font-size="15">ESP32-S3 + ASRPRO | v0.9.3 | 纸壳造型示意，结构模板待完成</text>
+<text x="62" y="345" fill="#88aaa3" font-size="15">ESP32-S3 + ASRPRO | v0.9.3 | 造型示意 · 真实样机见首页照片</text>
 </g></svg>

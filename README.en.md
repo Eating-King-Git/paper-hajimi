@@ -1,12 +1,16 @@
-# Paper Hajimi — a little desktop robot that invites you to play
+# Paper Robot — Voice Interactive Edition
 
 [中文说明](README.md) · [Wiring](docs/wiring.md) · [Getting started](docs/quickstart.md)
 
-Inspired by cardboard desktop robots, this project reuses parts from an earlier robot car. Its defining addition is an **ASRPRO offline voice module**, connecting guided voice prompts with two proximity sensors, OLED expressions, and servo head movement.
+Inspired by cardboard desktop robots, this project reuses parts from an earlier robot car. This edition adds **ASRPRO offline voice interaction and richer OLED expressions**, connecting guided voice prompts with two proximity sensors and servo head movement.
 
 Call its name, follow a left/right cheek invitation, and it responds with a face, a turn, and a spoken reward. It then invites you to the other cheek or suggests a compliment / another round. Free proximity interaction also works without voice wake-up.
 
-The electronic prototype is reported working by its author. **The cardboard enclosure and printable templates are not finished.** The banner is an illustration, not a prototype photograph.
+The author has completed the working electronic prototype and a cardboard head. The supplied photograph and approximately 68-second video show the current build. Reusable enclosure dimensions and printable templates are still to be documented.
+
+<p align="center"><a href="assets/demo.mp4"><img src="assets/prototype.jpg" width="420" alt="Working cardboard robot prototype with heart-shaped OLED eyes"></a></p>
+
+[View the demonstration video](assets/demo.mp4) · [Download the original video](https://github.com/Eating-King-Git/paper-hajimi/raw/refs/heads/main/assets/demo.mp4)
 
 Hardware: GOOUUU ESP32-S3-CAM V1.5, SSD1306 128×64 I²C OLED, ASRPRO V2.0 with speaker, two active-low IR proximity modules, and one separately powered SG90 servo.
 
